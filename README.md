@@ -3,7 +3,7 @@ polymer-express
 
 Base polymer express app.
 
-Episode 1: Scaffolding
+##Episode 1: Scaffolding
 [weekly notes](weekly_notes/1-scaffolding.md)
 git checkout origin/1-scaffolding
 
@@ -11,5 +11,13 @@ git checkout origin/1-scaffolding
 - Mash in some Polymer using a Yeoman generator
 - Touch up some package.json conflicts, rework directories
 - Tweak the Express app
+
+##Episode 2: Polymer Elements
+[weekly notes](weekly_notes/2-elements.md)
+git checkout origin/2-elements
+
+- yo polymer:el custom-element-generator
+- Using Polymer's core elements
+- Grabbing some more web components
 
 
